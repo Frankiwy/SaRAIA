@@ -1,5 +1,6 @@
-# SaRAIA
+# SaRAIA 
 
+Satellite Retrieval for Ash and Ice Aggregation (SaRAIA) - repository. 
 The repository stores the data useful to replicate the results shown in “Ash and ice aggregation in satellite retrieval: the 15 January 2022 Hunga Tonga-Hunga Ha’apai hydromagmatic eruption”.
 
 The 3 subfolders store:
