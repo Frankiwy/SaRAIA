@@ -1,4 +1,4 @@
-The folder stores Brightness Temperatures (BTs) measured by ABI (Advenced Baseline Imager) on board the GOES-17 (137.2° west) geostationary satellite. 
+The folder stores Brightness Temperatures (BTs) measured by Advanced Baseline Imager (ABI) on board the GOES-17 (137.2° west) geostationary satellite. 
 The files are stored in .mat formats. 
 Each file contains:
 - two matrices of latitude (deg) and longitude (deg)
